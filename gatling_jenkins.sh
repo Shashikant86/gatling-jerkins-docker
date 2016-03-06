@@ -1,5 +1,7 @@
 #!/bin/bash
 CLASS=$1
+GATLING_VERSION="2.1.7"
+
 
 cd ${WORKSPACE}
 
